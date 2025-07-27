@@ -1,1 +1,1 @@
-bucket_name = "my-tf-test-bucket-ankitverizon-lap"
+bucket_name = "my-tf-test-bucket-ankitverizon-laps"
